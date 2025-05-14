@@ -6,7 +6,7 @@ const token = '8157383264:AAEUx0ZXjZB74NOyxWYn-aP7VnUL9REE8uw';
 const bot = new TelegramBot(token, { polling: true });
 
 // Admin user ID (replace with the actual admin's Telegram user ID)
-const adminId = 'YOUR_ADMIN_USER_ID';
+const adminId = '6216175814';
 
 // Manually set PooCoin price (admin can update this)
 let POOCOIN_PRICE = 100;  // Update this value manually when needed
